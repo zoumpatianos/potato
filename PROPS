@@ -13,9 +13,22 @@ Alexander
 -This can be packaged in the form of a regular cms like wordpress, where you simply install it and bam, you have a community
 -We have to make sure the project scales in a very simple way: you simply launch more server instances in order to serve more users
 -FB (and other networks) Connect
+  
 
 Dimitrios
 ---------
 -Upon action professional search will be possible.
 -For example lets that the group decided to make a wooden house on a tree. Then it would be possible to find the local wood crafters, local shops to buy nails, local builders etc...
 
+
+
+
+
+
+Architecture:
+----------------------------------------------------------
+- We could use PHP for the front-end and Python/C for the backend
+
+TODO-List
+---------
+- Create possible use scenarios. e.g. a company of friends wants to decide which movie they want to see
