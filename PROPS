@@ -11,7 +11,8 @@ Alexander
 -Super secure identification system
 -We need to know who is who so that the votes can be trusted.
 -this can be packaged in the form of a regular cms like wordpress, where you simply install it and bam, you have a community
--we have to make sure the project scales
+-we have to make sure the project scales in a very simple way: you simply launch more server instances in order to serve more users
+
 
 Dimitrios
 ---------
