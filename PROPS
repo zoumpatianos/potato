@@ -27,8 +27,22 @@ Dimitrios
 
 Architecture:
 ----------------------------------------------------------
-- We could use PHP for the front-end and Python/C for the backend
+We must decide what language to develop the project in. 
+We must keep in mind that this project will be used by communities that might not necessarily 
+include tech-savy people. So:
+It would be better if done in only one language for easier installations.
+
+1. PHP
+    Pros:
+      * Well documented and wide-spread (see almost every other cms in the market)
+      * easier to install a php system 
+      * there are many ready-made solutions out there to make a php system scalable
+      * most web servers support php-mysql architectures so it will be easy for smaller communities to find
+a cheap (or even free) hosting solution where they can deploy our system
+
+
 
 TODO-List
 ---------
-- Create possible use scenarios. e.g. a company of friends wants to decide which movie they want to see
+- Create possible scenarios. e.g. a group of friends wants to decide which movie they want to see
+- Create a mailing list (Eleftherios)
