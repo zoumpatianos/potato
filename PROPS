@@ -6,14 +6,17 @@ Eleftherios
 -But also other hierarchical/non-democratic systems will be possible.
 
 
-Alexander
+Alexandros
 ---------
 -Super secure identification system.
 -We need to know who is who so that the votes can be trusted.
 -This can be packaged in the form of a regular cms like wordpress, where you simply install it and bam, you have a community
 -We have to make sure the project scales in a very simple way: you simply launch more server instances in order to serve more users
 -FB (and other networks) Connect
-  
+-Reddit-like suggestions voting system - for voting schemes where not all voting options are pre-defined. This is a cool way 
+to discover new solutions as users can vote up or down for some good suggestions. This way, the most favorite
+suggestions will "float" on the top of the suggestions list
+        
 
 Dimitrios
 ---------
@@ -46,3 +49,16 @@ TODO-List
 ---------
 - Create possible scenarios. e.g. a group of friends wants to decide which movie they want to see
 - Create a mailing list (Eleftherios)
+
+
+
+Voting Scheme Parameters
+------------------------
+- Suggestions:
+    * Predefined Suggestions
+    * Open suggestions (users can insert new suggestions in the voting scheme in a Reddit fashion)
+- Identification Policy:
+    * Open (e.g. ip based, cookie based)
+    * E-mail or Facebook or GoogleID
+    * Strict Verification (based on some physical ID like: Credit Card Number, ID card, Driver's License, Face Photo, Voice etc...)
+
