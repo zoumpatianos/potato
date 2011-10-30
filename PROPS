@@ -4,7 +4,7 @@ Eleftherios
 -Consensus based voting system from 2 to many users.
 -Proposals, voting, antiproposals, voting, actions.
 -But also other hierarchical/non-democratic systems will be possible.
-
+-Create a workload-related metric similar to git shortlog -ns.
 
 Alexandros
 ---------
@@ -48,7 +48,7 @@ a cheap (or even free) hosting solution where they can deploy our system
 TODO-List
 ---------
 - Create possible scenarios. e.g. a group of friends wants to decide which movie they want to see
-- Create a mailing list (Eleftherios)
+- Create a mailing list (Eleftherios) Done!
 
 
 
