@@ -16,6 +16,7 @@ Alexandros
 -Reddit-like suggestions voting system - for voting schemes where not all voting options are pre-defined. This is a cool way 
 to discover new solutions as users can vote up or down for some good suggestions. This way, the most favorite
 suggestions will "float" on the top of the suggestions list
+        
 
 Dimitrios
 ---------
@@ -48,3 +49,16 @@ TODO-List
 ---------
 - Create possible scenarios. e.g. a group of friends wants to decide which movie they want to see
 - Create a mailing list (Eleftherios)
+
+
+
+Voting Scheme Parameters
+------------------------
+- Suggestions:
+    * Predefined Suggestions
+    * Open suggestions (users can insert new suggestions in the voting scheme in a Reddit fashion)
+- Identification Policy:
+    * Open (e.g. ip based, cookie based)
+    * E-mail or Facebook or GoogleID
+    * Strict Verification (based on some physical ID like: Credit Card Number, ID card, Driver's License, Face Photo, Voice etc...)
+
