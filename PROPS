@@ -62,4 +62,5 @@ Voting Scheme Parameters
     * Open (e.g. ip based, cookie based)
     * E-mail or Facebook or GoogleID
     * Strict Verification (based on some physical ID like: Credit Card Number, ID card, Driver's License, Face Photo, Voice etc...)
-
+- Vote Weighting (yes - no):
+        * Some voters' votes could have higher weight if they satisfy some criteria like: Specialist knowledge, or Hierarchical significance
