@@ -25,11 +25,6 @@ Dimitrios
 -Upon action professional search will be possible.
 -For example lets that the group decided to make a wooden house on a tree. Then it would be possible to find the local wood crafters, local shops to buy nails, local builders etc...
 
-
-
-
-
-
 Architecture:
 ----------------------------------------------------------
 We must decide what language to develop the project in. 
@@ -46,12 +41,10 @@ It would be better if done in only one language for easier installations.
 a cheap (or even free) hosting solution where they can deploy our system
 
 
-
 TODO-List
 ---------
 - Create possible scenarios. e.g. a group of friends wants to decide which movie they want to see
 - Create a mailing list (Eleftherios) Done!
-
 
 
 Voting Scheme Parameters
@@ -65,3 +58,8 @@ Voting Scheme Parameters
     * Strict Verification (based on some physical ID like: Credit Card Number, ID card, Driver's License, Face Photo, Voice etc...)
 - Vote Weighting (yes - no):
         * Some voters' votes could have higher weight if they satisfy some criteria like: Specialist knowledge, or Hierarchical significance
+
+Possible names
+---------------
+patata
+thoughtlink
